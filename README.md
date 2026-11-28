@@ -1,8 +1,5 @@
-# CUI-GRN: a framework for single-cell gene regulatory network inference integrating complementary candidate support, pseudo-negative ensembling, and intermediate-layer representation reuse
-
-## Overview
-
-CUI-GRN is a framework for inferring gene regulatory networks from single-cell RNA-seq data. 
+# CUI-GRN
+CUI-GRN is a computational framework for gene regulatory network inference from single-cell RNA sequencing data.
 
 ## Usage
 
